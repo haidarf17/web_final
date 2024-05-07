@@ -1,0 +1,1 @@
+Here you can find all the html and php files used for the client side of the website.
