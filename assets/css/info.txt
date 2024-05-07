@@ -1,0 +1,1 @@
+Includes all the used css file for the template selected.
