@@ -1,0 +1,12 @@
+#post {
+    background-color: #ffffff;
+    width: 50%;
+    margin: 20px auto;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#post h2 {
+    color: #043959;
+    font-weight: 700;
+}
