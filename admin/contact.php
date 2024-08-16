@@ -73,7 +73,7 @@ https://templatemo.com/tm-589-lugx-gaming
             <a href="index.php" class="logo">
               <img src="../assets/images/logo.png" alt="" style="width: 158px;">
             </a>
-            <!-- ***** Logo End ***** -->
+            <!-- ***** Log End ***** -->
             <!-- ***** Menu Start ***** -->
             <ul class="nav">
               <li><a href="index.php" class="active">Home</a></li>
